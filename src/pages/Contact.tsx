@@ -444,10 +444,10 @@ const Contact: React.FC = () => {
   return (
     <>
       <SEO
-        title="Contact Rolan Lobo (Rolan RNR) - Hire Freelance Full Stack Developer"
-        description="Get in touch with Rolan Lobo (Rolan RNR) for web development, security tools, or custom software projects."
-        keywords="Contact Rolan Lobo, Rolan RNR, Hire Developer, Freelance Web Developer"
-        url="https://rolan-rnr.netlify.app/contact"
+        title="Contact Car Torres (CAT) - Hire Freelance Full Stack Developer"
+        description="Get in touch with Car Torres (CAT) for web development, security tools, or custom software projects."
+        keywords="Contact Car Torres, Car Torres CAT, Hire Developer, Freelance Web Developer"
+        url="https://car-torres.netlify.app/contact"
       />
       <FAQSchema />
 

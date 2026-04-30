@@ -132,9 +132,9 @@ const Blog: React.FC = () => {
     return (
         <>
             <SEO
-                title="Blog - Rolan Lobo | Thoughts on Development & Technology"
+                title="Blog - Car Torres | Thoughts on Development & Technology"
                 description="Read my latest articles on web development, programming, and technology. Learn from my experiences and insights in software engineering."
-                url="https://rolan-rnr.netlify.app/blog"
+                url="https://car-torres.netlify.app/blog"
             />
 
             <BlogSection>
@@ -165,7 +165,7 @@ const Blog: React.FC = () => {
                             <h2>⚠️ Oops! Something went wrong</h2>
                             <p>We couldn't load the blog posts. Please try again later.</p>
                             <a
-                                href="https://rnr-still-figuring-things-out.hashnode.dev/"
+                                href="https://cat-torres.hashnode.dev/"
                                 target="_blank"
                                 rel="noopener noreferrer"
                             >
@@ -181,7 +181,7 @@ const Blog: React.FC = () => {
                             <h2>📝 No posts yet</h2>
                             <p>I haven't published any blog posts yet. Check back soon!</p>
                             <a
-                                href="https://rnr-still-figuring-things-out.hashnode.dev/"
+                                href="https://cat-torres.hashnode.dev/"
                                 target="_blank"
                                 rel="noopener noreferrer"
                             >

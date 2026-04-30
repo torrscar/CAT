@@ -761,11 +761,11 @@ const About: React.FC = () => {
   return (
     <>
       <SEO
-        title="About Rolan Lobo (Rolan RNR) - Full Stack Developer & Software Engineer"
-        description="Learn about Rolan Lobo (Rolan RNR), a passionate freelance software engineer from Karnataka, India. Specializing in security applications (steganography, file encryption, polyglot files), web development (React, Flask), and desktop applications. Journey through education, work experience, skills, and professional freelance services."
-        keywords="About Rolan Lobo, Rolan RNR, Rolan rnr, Software Engineer India, Full Stack Developer India, Freelance Developer India, Karnataka Developer, Freelance Web Developer, Security Software Developer, Steganography Developer, Polyglot Files Developer, React Developer India, Python Developer India"
-        image="https://rolan-rnr.netlify.app/about-rolan-lobo.webp"
-        url="https://rolan-rnr.netlify.app/about"
+        title="About Car Torres (CAT) - Full Stack Developer & Software Engineer"
+        description="Learn about Car Torres (CAT), a passionate freelance software engineer. Specializing in security applications (steganography, file encryption, polyglot files), web development (React, Flask), and desktop applications. Journey through education, work experience, skills, and professional freelance services."
+        keywords="About Car Torres, Car Torres CAT, CAT Developer, Software Engineer, Full Stack Developer, Freelance Developer, Freelance Web Developer, Security Software Developer, Steganography Developer, Polyglot Files Developer, React Developer, Python Developer"
+        image="https://car-torres.netlify.app/about-car-torres.webp"
+        url="https://car-torres.netlify.app/about"
       />
       {/* Hero Section */}
       <AboutHero>
@@ -779,7 +779,7 @@ const About: React.FC = () => {
               About Me
             </HeroTitle>
             <HeroSubtitle variants={itemVariants}>
-              I'm Rolan Lobo (RNR is my handle), an aspiring software engineer and freelancer from Karnataka, India.
+              I'm Car Torres (CAT is my handle), an aspiring software engineer and freelancer.
               I'm passionate about creating innovative, functional, and visually appealing digital solutions
               that solve real-world problems.
             </HeroSubtitle>
@@ -794,7 +794,7 @@ const About: React.FC = () => {
               <AboutImageContainer>
                 <AboutImage
                   src={aboutImage}
-                  alt="About Rolan Lobo (Rolan RNR)"
+                  alt="About Car Torres (CAT)"
                 />
               </AboutImageContainer>
             </AboutImageSection>
